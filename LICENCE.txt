@@ -1,0 +1,2 @@
+hello this is a license (not licence) file.
+Feel free to use this file.
